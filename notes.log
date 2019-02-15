@@ -1,0 +1,10 @@
+- ejecutar un archivo javascript
+en la consola dentro de la carpeta del proyecto
+node <file_name>.js
+
+- generar el package.json
+en la consola dentro de la carpeta del proyecto
+npm init --yes
+
+- instalar express
+npm install express
